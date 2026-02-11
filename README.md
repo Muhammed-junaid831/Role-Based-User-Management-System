@@ -1,42 +1,43 @@
-RoleGuard – Role-Based User Management System
+# 🚀 RoleGuard – Role-Based User Management System
 
-A Java console-based application built using core Object-Oriented Programming (OOP) concepts to simulate a real-world Role-Based Access Control (RBAC) system.
-The project demonstrates how Admin and Normal Users interact with an application using Abstract Classes, Interfaces, and Polymorphism.
+A **Java console-based application** built using core **Object-Oriented Programming (OOP)** concepts to simulate a real-world **Role-Based Access Control (RBAC)** system.  
+This project demonstrates how **Admin** and **Normal Users** interact with an application using **Abstract Classes**, **Interfaces**, and **Runtime Polymorphism**.
 
-📌 Features
+---
 
-✅ Role-based user flow (Admin & Normal User)
-✅ Abstract class for common user structure
-✅ Interface with default & static methods
-✅ Encapsulation using getters & setters
-✅ Runtime polymorphism & method overriding
-✅ Clean and modular Java design
+## 📌 Features
 
-🧠 Concepts Used
+- ✅ Role-based access (Admin & Normal User)
+- ✅ Abstract class for shared user structure
+- ✅ Interface with default & static methods
+- ✅ Encapsulation using getters & setters
+- ✅ Method overriding & runtime polymorphism
+- ✅ Clean and modular Java design
 
-OOP Principles (Encapsulation, Inheritance, Polymorphism)
+---
 
-Abstract Classes
+## 🧠 Concepts Used
 
-Interfaces (default & static methods)
+- Object-Oriented Programming (OOP)
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstract Classes
+- Interfaces (default & static methods)
+- Role-Based Access Logic
 
-Method Overriding
+---
 
-Role-Based Access Logic
+## ⚙️ Tech Stack
 
-Java Console Application Structure
+- Java
+- OOP Design Principles
+- IntelliJ IDEA
+- Git & GitHub
 
-⚙️ Tech Stack
+---
 
-Java
-
-OOP Design
-
-IntelliJ IDEA
-
-Git & GitHub
-
-🏗️ Project Structure
+## 🏗️ Project Structure
 AppUser (Abstract Class)
 │
 ├── AdminUser
@@ -45,17 +46,27 @@ AppUser (Abstract Class)
 UserOperations (Interface)
 MyProject (Main Class)
 
-▶️ How to Run
 
-1️⃣ Clone the repository
+---
 
+## ▶️ How to Run
+
+1. Clone the repository
 git clone https://github.com/your-username/role-based-user-management-system.git
 
 
-2️⃣ Open in IntelliJ / any Java IDE
+2. Open the project in IntelliJ IDEA or any Java IDE.
 
-3️⃣ Run MyProject.java
+3. Run `MyProject.java`.
 
-💡 Learning Outcome
+---
 
-This project helped strengthen my understanding of OOP architecture, interface design, and how real backend systems manage different user roles with clean code structure
+## 💡 Learning Outcome
+
+This project strengthened my understanding of **OOP architecture**, interface design, and how backend systems manage multiple user roles using clean and maintainable code.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
+
+
